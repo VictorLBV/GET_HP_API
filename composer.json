@@ -1,0 +1,11 @@
+{
+    "name": "victor/harry-potter-api",
+    "autoload":{
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
